@@ -47,6 +47,7 @@ body {
  @media only screen and (max-width: 600px) {
    body {
       background-position-x: center;
+      background: 100vh;
    }
 
    button {
@@ -58,12 +59,12 @@ body {
    p {
       font-size: 25px;
       padding: 50% 15%;
-      padding-top: 55%;
+      padding-top: 45%;
    }
 
    audio {
       padding: 10px 15px;
-      margin-top: 50px;
+      margin-top: 20px;
    }
    
  }
